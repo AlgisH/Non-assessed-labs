@@ -2,7 +2,7 @@ package store;
 
 import java.util.*;
 
-public class Store implements java.io.Serializable{
+public class Store {
 
 	private String name;
 	private Set<Product> products;

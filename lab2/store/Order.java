@@ -2,7 +2,7 @@ package store;
 
 import java.util.*;
 
-public class Order implements java.io.Serializable {
+public class Order {
 
 	private Date date;
 	private final int orderId;

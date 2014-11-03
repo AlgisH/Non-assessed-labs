@@ -1,6 +1,6 @@
 package store;
 
-public class Item implements java.io.Serializable{
+public class Item {
 
 	private double total;
 	private int amount;
